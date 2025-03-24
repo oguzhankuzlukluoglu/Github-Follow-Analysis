@@ -7,9 +7,7 @@
   git clone https://github.com/oguzhankuzlukluoglu/Github-Follow-Analysis
 ```
 
-| Parametre | Tip     | Açıklama                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Gerekli**. API anahtarınız. |
+
 
 #### Install dependencies:
 
