@@ -18,8 +18,6 @@
 python github_follow_analysis.py <github_username>
 
 
-#### add(num1, num2)
-
 Analyzing follow relationships for GitHub user 'your_username'...
 
 --- SUMMARY ---
